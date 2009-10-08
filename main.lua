@@ -1,10 +1,15 @@
 
-options = {
-	grassland,
-	forest,
-	mountain,
-	village
+locations = {
+  {
+    title = "Grassland"
+  },
+  {
+    title = "Forest"
+  },
+  {
+    title = "Mountain"
+  },
+  {
+    title = "Village"
+  }
 }
-
-function 
-
