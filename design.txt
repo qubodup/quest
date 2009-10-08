@@ -1,0 +1,15 @@
+= Design =
+
+== Controls ==
+
+io.stdin() used for input
+
+== Character ==
+
+Strength -> Damage | Weightlifting
+Dexterity -> Aim | Lockpicking
+Endurance -> HP | Climbing
+
+== Gameplay ==
+
+

@@ -1,0 +1,20 @@
+1:
+
+movement input (1(random std. location), 3(village))
+changing locations ((forest/mountain/field)/village)
+village
+
+2:
+
+chances of special encounter
+special encounters (rescue (living being) from under (boulder/tree))
+
+3:
+
+movement input (
+combat
+
+4:
+
+movement input (4(special location, condition-driven))
+special locations (town/castle/burnt-down homevillage)
