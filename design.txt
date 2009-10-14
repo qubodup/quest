@@ -1,8 +1,11 @@
 = Design =
+Quest's design
 
 == Controls ==
 
-io.stdin() used for input
+Strings of numbers as input. Digit = command, chains possible.
+Illegal command stops chain.
+Return will repeat previous command chain (which is displayed just in case).
 
 == Character ==
 
@@ -10,6 +13,7 @@ Strength -> Damage | Weightlifting
 Dexterity -> Aim | Lockpicking
 Endurance -> HP | Climbing
 
-== Gameplay ==
+=== Items ===
 
-
+Items enhance by math.floor(factor * player.attribute)
+Weapons enhance damage, eyewear (glasses) enhances aim?, armor enhances health?
