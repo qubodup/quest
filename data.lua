@@ -1,5 +1,5 @@
 -- Choices
-choices = {
+choice = {
   explore = {
   	{
       name = "grassland",
@@ -7,8 +7,6 @@ choices = {
     	name = "forest",
     },{
       name = "mountain",
-    },{
-      name = "village",
     },
   },
   home = {
@@ -49,5 +47,15 @@ weapon = {
   stick = {
     name = "Pointy Stick",
     factor = 1.1,
+  },
+}
+cloth = {
+  shortPants = {
+    name = "Short pants",
+    factor = .9,
+  },
+  pants = {
+    name = "Pants",
+    factor = 1,
   }
 }
